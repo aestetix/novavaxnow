@@ -49,8 +49,7 @@ have backed away from their previous involvement in educating the public and
 providing resources for people and communities. SARS-CoV-2 continues to harm our
 friends and neighbours, and there is still no treatment for Long COVID, which
 has been found so far to affect people of all ages at a rate of 1 in 10
-infections at a minimum. 
-
+infections at a minimum.
 
 As noted by the original letter creators ([@nb_covid_info](https://twitter.com/nb_covid_info)), in Canada many places still do not have a long COVID clinic, despite the fact that [PHAC has been informing provincial public health in all provinces about long COVID since summer 2020](https://popnb.substack.com/p/omission-is-negligence). While institutions have
 been eager to move on from the pandemic, work by Dr. Tara Moriarty shows that
@@ -62,7 +61,7 @@ rendering people significantly more susceptible to diabetes, heart problems, and
 strokes - among other undesirable impacts from this virus which affects our
 vascular system. Post-COVID sequelae do not discriminate; they also affect
 healthcare workers which contributes negatively to our healthcare human
-resources. For more on post-COVID condition, please see the [March 9, 2023 report by Canada’s Chief Science Advisor](https://science.gc.ca/site/science/en/office-chief-science-advisor/initiatives-covid-19/post-covid-19-condition-canada-what-we-know-what-we-dont-know-and-framework-action)
+resources. For more on post-COVID condition, please see the [March 9, 2023 report by Canada’s Chief Science Advisor](https://science.gc.ca/site/science/en/office-chief-science-advisor/initiatives-covid-19/post-covid-19-condition-canada-what-we-know-what-we-dont-know-and-framework-action).
 
 The only way to avoid long COVID is to avoid catching COVID, and avoiding
 re-infection, since one can also contract long COVID on subsequent infections.
