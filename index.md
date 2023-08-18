@@ -79,12 +79,12 @@ very well against hospitalization and death from COVID. Getting a vaccine every
 6 months should only take a few minutes, not a 7-8 hour return trip to the only
 pharmacy in the province that makes Novavax available.
 
-Thank you for the time you took to read this letter. I hope this has
+Thank you for the time you took to read this letter. We hope this has
 demonstrated why equitable access to the Novavax SARS-CoV-2 vaccine is worth
 achieving. Between the lower incidence of side effects and the increased breadth
 and durability of protection, people have many reasons to prefer a Novavax
 vaccine dose, especially now in this highly individualized phase of the ongoing
-pandemic. People deserve equitable access to the tools to protect ourselves. I
+pandemic. People deserve equitable access to the tools to protect ourselves. We
 look forward to hearing about Novavax access throughout the world.
 
 This letter was inspired by <https://twitter.com/nb_covid_info>.
