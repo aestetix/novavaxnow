@@ -53,7 +53,7 @@ infections at a minimum.
 
 
 As noted by the original letter creators
-([@nb_covid_info](https://twitter.com/nb_covid_info>)), in Canada many places still do not have a long COVID clinic,
+([@nb_covid_info](https://twitter.com/nb_covid_info)), in Canada many places still do not have a long COVID clinic,
 despite the fact that PHAC has been informing provincial public health in all
 provinces about long COVID since summer 2020
 (<https://popnb.substack.com/p/omission-is-negligence>). While institutions have
