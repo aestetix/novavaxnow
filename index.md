@@ -52,11 +52,7 @@ has been found so far to affect people of all ages at a rate of 1 in 10
 infections at a minimum. 
 
 
-As noted by the original letter creators
-([@nb_covid_info](https://twitter.com/nb_covid_info)), in Canada many places still do not have a long COVID clinic,
-despite the fact that PHAC has been informing provincial public health in all
-provinces about long COVID since summer 2020
-(<https://popnb.substack.com/p/omission-is-negligence>). While institutions have
+As noted by the original letter creators ([@nb_covid_info](https://twitter.com/nb_covid_info)), in Canada many places still do not have a long COVID clinic, despite the fact that [PHAC has been informing provincial public health in all provinces about long COVID since summer 2020](https://popnb.substack.com/p/omission-is-negligence). While institutions have
 been eager to move on from the pandemic, work by Dr. Tara Moriarty shows that
 Canada is still experiencing significant excess deaths, which indicates that the
 danger to the public has not passed
