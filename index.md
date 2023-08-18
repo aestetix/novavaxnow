@@ -1,6 +1,4 @@
-Open Letter for Novavax access
-
-Dear health care organizations around the world,
+Dear Health Care Organizations around the world,
 
 We are writing to you today in advance of the fall 2023 COVID-19 vaccination
 campaign to request something very important: equitable access to the Novavax
@@ -53,7 +51,7 @@ protection may be provided by heterologous vaccine schedules using NVXCoV2373
 than the homologous BNT162b2 schedule.” “For infections up to day 132 post
 second dose, seronegative NVX participants had an 89% reduction in the adjusted
 risk of a ‘breakthrough infection’ compared to BNT-30 [adjusted hazard ratio
-(aHR) 0.11 (95% CI: 0.01, 0.86)]” <https://doi.org/10.1016/j.jinf.2023.06.007>
+(aHR) 0.11 (95% CI: 0.01, 0.86)]” 
 [Reactogenicity, immunogenicity and breakthrough infections following
 heterologous or fractional second dose COVID-19 vaccination in adolescents
 (Com-COV3): A randomised controlled trial, Journal of Infection, September
