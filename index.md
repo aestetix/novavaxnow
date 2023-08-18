@@ -39,7 +39,7 @@ important:
 
 * For some immunosuppressed people, such as the patients with MS in this study, 2 doses of Novavax vaccine allowed them to develop antibodies, which they had not done after mRNA vaccine: “Vaccination with two doses of NVX-CoV2373 was able to elicit a SARS-CoV-2-specific immune response in pwMS lacking adequate immune responses to previous mRNA/viral vector vaccination.” NVX-CoV2373-induced T- and B-cellular immunity in immunosuppressed people with multiple sclerosis that failed to respond to mRNA and viral vector SARS-CoV-2 vaccines. [Front. Immunol., 20 July 2023](https://doi.org/10.3389/fimmu.2023.1081933).
 
-* Canadian researcher Dr. Jeff Gilchrist has also made available a number of * summaries of presentations by Novavax as well as published papers; his * summaries are available * [here](https://threadreaderapp.com/thread/1678360881313226753.html), * [here](https://threadreaderapp.com/thread/1621843982857785344.html), and * [here](https://threadreaderapp.com/thread/1597228107919826946.html).
+* Canadian researcher Dr. Jeff Gilchrist has also made available a number of summaries of presentations by Novavax as well as published papers; his summaries are available [here](https://threadreaderapp.com/thread/1678360881313226753.html), [here](https://threadreaderapp.com/thread/1621843982857785344.html), and [here](https://threadreaderapp.com/thread/1597228107919826946.html).
 
 At the beginning of the pandemic and through the initial vaccine roll-out,
 governments and healthcare worked together to stop chains of transmission and to
