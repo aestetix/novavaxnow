@@ -77,7 +77,7 @@ of your day to receive a vaccine can help protect you against infection, serious
 illness, protects (minimally, with today’s vaccines) against long COVID, and
 very well against hospitalization and death from COVID. Getting a vaccine every
 6 months should only take a few minutes, not a 7-8 hour return trip to the only
-pharmacy in the province that makes Novavax available.
+pharmacy in the area that makes Novavax available.
 
 Thank you for the time you took to read this letter. We hope this has
 demonstrated why equitable access to the Novavax SARS-CoV-2 vaccine is worth
