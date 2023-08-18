@@ -33,45 +33,13 @@ protection from SARS-CoV-2.
 Here are some findings from recent studies that show why access to Novavax is
 important:
 
-A large study in Korea of Novavax vaccinations for primary series and/or booster
-doses found "reporting rate of adverse events after Novavax COVID-19 vaccination
-among persons aged 18 years and over was 132.7 per 100,000 doses administered.
-This rate was lowest compared to that reported following other COVID-19 vaccines
-in Korea." [Safety surveillance of the NVX-CoV2373 COVID-19 vaccine among
-Koreans aged 18 years and over, Vaccine, 7 Aug 2023](https://doi.org/10.1016/j.vaccine.2023.06.077).
+* A large study in Korea of Novavax vaccinations for primary series and/or booster doses found "reporting rate of adverse events after Novavax COVID-19 vaccination among persons aged 18 years and over was 132.7 per 100,000 doses administered.  This rate was lowest compared to that reported following other COVID-19 vaccines in Korea." [Safety surveillance of the NVX-CoV2373 COVID-19 vaccine among Koreans aged 18 years and over, Vaccine, 7 Aug 2023](https://doi.org/10.1016/j.vaccine.2023.06.077).
 
-While Novavax is not yet generally available for adolescents, another study
-showed promising results for adolescents who received a Novavax dose after an
-initial mRNA dose: “NVXCoV2373 following 30µg BNT162b2 as a first dose elicited
-the highest humoral and peak cellular immune responses. Neutralising antibodies
-against Omicron BA.1 and BA.2 were higher after NVXCoV2373 than a two-dose 30µg
-BNT162b2 schedule. The lowest rate of SARS-CoV-2 breakthrough infections
-occurred in participants who received NVXCoV2373 as their second dose. Enhanced
-protection may be provided by heterologous vaccine schedules using NVXCoV2373
-than the homologous BNT162b2 schedule.” “For infections up to day 132 post
-second dose, seronegative NVX participants had an 89% reduction in the adjusted
-risk of a ‘breakthrough infection’ compared to BNT-30 [adjusted hazard ratio
-(aHR) 0.11 (95% CI: 0.01, 0.86)]” 
-[Reactogenicity, immunogenicity and breakthrough infections following
-heterologous or fractional second dose COVID-19 vaccination in adolescents
-(Com-COV3): A randomised controlled trial, Journal of Infection, September
-2023](https://doi.org/10.1016/j.jinf.2023.06.007).
+* While Novavax is not yet generally available for adolescents, another study showed promising results for adolescents who received a Novavax dose after an initial mRNA dose: “NVXCoV2373 following 30µg BNT162b2 as a first dose elicited the highest humoral and peak cellular immune responses. Neutralising antibodies against Omicron BA.1 and BA.2 were higher after NVXCoV2373 than a two-dose 30µg BNT162b2 schedule. The lowest rate of SARS-CoV-2 breakthrough infections occurred in participants who received NVXCoV2373 as their second dose. Enhanced protection may be provided by heterologous vaccine schedules using NVXCoV2373 than the homologous BNT162b2 schedule.” “For infections up to day 132 post second dose, seronegative NVX participants had an 89% reduction in the adjusted risk of a ‘breakthrough infection’ compared to BNT-30 [adjusted hazard ratio (aHR) 0.11 (95% CI: 0.01, 0.86)]” [Reactogenicity, immunogenicity and breakthrough infections following heterologous or fractional second dose COVID-19 vaccination in adolescents (Com-COV3): A randomised controlled trial, Journal of Infection, September 2023](https://doi.org/10.1016/j.jinf.2023.06.007).
 
-For some immunosuppressed people, such as the patients with MS in this study, 2
-doses of Novavax vaccine allowed them to develop antibodies, which they had not
-done after mRNA vaccine: “Vaccination with two doses of NVX-CoV2373 was able to
-elicit a SARS-CoV-2-specific immune response in pwMS lacking adequate immune
-responses to previous mRNA/viral vector vaccination.” NVX-CoV2373-induced T- and
-B-cellular immunity in immunosuppressed people with multiple sclerosis that
-failed to respond to mRNA and viral vector SARS-CoV-2 vaccines. [Front. Immunol., 20 July
-2023](https://doi.org/10.3389/fimmu.2023.1081933).
+* For some immunosuppressed people, such as the patients with MS in this study, 2 doses of Novavax vaccine allowed them to develop antibodies, which they had not done after mRNA vaccine: “Vaccination with two doses of NVX-CoV2373 was able to elicit a SARS-CoV-2-specific immune response in pwMS lacking adequate immune responses to previous mRNA/viral vector vaccination.” NVX-CoV2373-induced T- and B-cellular immunity in immunosuppressed people with multiple sclerosis that failed to respond to mRNA and viral vector SARS-CoV-2 vaccines. [Front. Immunol., 20 July 2023](https://doi.org/10.3389/fimmu.2023.1081933).
 
-Canadian researcher Dr. Jeff Gilchrist has also made available a number of
-summaries of presentations by Novavax as well as published papers; his summaries
-are available here:
-<https://threadreaderapp.com/thread/1678360881313226753.html>,
-<https://threadreaderapp.com/thread/1621843982857785344.html>,
-<https://threadreaderapp.com/thread/1597228107919826946.html>
+* Canadian researcher Dr. Jeff Gilchrist has also made available a number of summaries of presentations by Novavax as well as published papers; his summaries are available here: <https://threadreaderapp.com/thread/1678360881313226753.html>, <https://threadreaderapp.com/thread/1621843982857785344.html>, <https://threadreaderapp.com/thread/1597228107919826946.html>
 
 At the beginning of the pandemic and through the initial vaccine roll-out,
 governments and healthcare worked together to stop chains of transmission and to
